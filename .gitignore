@@ -1,0 +1,16 @@
+*.tsv
+*.tsv.gz
+*.gz
+*.zip
+*.7z
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+*_cache/
+__pycache__/
+*.pyc
+.env
